@@ -1,6 +1,6 @@
 # Vihaan7207
 
- I am an 12 year old beginner developer. I love using javascript, especially Svelte.
+ I am a 14 year old beginner developer. I love using javascript, especially Svelte.
 
 [![](https://github-readme-stats.vercel.app/api?username=Vihaan7207&show_icons=true&theme=radical)
 <br/>
